@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Cristian Martinez | Ingeniería de Software & Comercio </h1>
   
-  <img src="BannerCris2.png" alt="Banner: Un desarrollador de software" width="100%" />
+  <img src="BannerCris98.png" alt="Banner: Un desarrollador de software" width="100%" />
 
   <p>
     Técnico en Programación de Software | Enfocado en **Desarrollo Web de Alto Rendimiento** 
